@@ -1,4 +1,7 @@
 opencv-python>=4.7
-mediapipe==0.10.8
+mediapipe>=0.10.13
 pyautogui>=0.9
 pynput>=1.7
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.9
